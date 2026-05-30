@@ -1,5 +1,8 @@
 # FoodRoute - Frontend
 
+<!-- Skill-In project workspace -->
+<!-- Healthcheck: 2026-05-30 -->
+
 ## Frontend Deployment
 
 **GitHub Pages URL:** https://skill-in-projects.github.io/6a1a9ce56d5fa8bcc2766465/
